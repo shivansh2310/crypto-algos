@@ -1,2 +1,2 @@
 # crypto-algos
-Repo for Cryptography Algorithms
+This is a repo for Cryptography Algorithms. Feel free to use and contribute in this repo.
